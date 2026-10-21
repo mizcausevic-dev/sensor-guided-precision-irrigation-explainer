@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/sensor-guided-precision-irrigation-explainer/
 
+Repository: https://github.com/mizcausevic-dev/sensor-guided-precision-irrigation-explainer
+
 ## What this is
 
 An interactive anatomy plate for Sensor-Guided Precision Irrigation. Play, scrub, or jump the five stages. The same frame always draws the same picture.
